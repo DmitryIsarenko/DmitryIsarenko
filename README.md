@@ -36,21 +36,25 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
+## Contact info:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7BCW3MZRY4BSE1)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IsarenkoDmitry_CNC)
+
+<!-- 
 ## My statistics:
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryIsarenko&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitryIsarenko&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryIsarenko&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitryIsarenko&theme=default)
 -->
+
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitryIsarenko&theme=solarized_dark)
 
 [![codewars](https://www.codewars.com/users/DmitryIsarenko/badges/large)](https://www.codewars.com/users/DmitryIsarenko) 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/DmitryIsarenko)](https://leetcode.com/u/DmitryIsarenko/)
-
-
-## Contact info:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/7BCW3MZRY4BSE1)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IsarenkoDmitry_CNC)
+-->
 
 <!--
 **DmitryIsarenko/DmitryIsarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
