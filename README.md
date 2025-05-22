@@ -6,7 +6,7 @@
 </h1>
 
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+developer+from+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+developer+from+Russia)](https://git.io/typing-svg)
 
 ## Now I'm working on:
 1. Python-based [postprocessing application](https://github.com/DmitryIsarenko/py_post) for CNC machining automation purpouses.
