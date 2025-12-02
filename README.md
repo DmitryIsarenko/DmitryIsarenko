@@ -9,7 +9,7 @@
 ## About Me
 I design and develop software tools for CNC machining automation, as well as small web services and internal utilities.  
 My primary focus is backend development, automation, and optimizing technical workflows.
-
+<!--
 ---
 
 ## Current Projects
@@ -18,7 +18,7 @@ My primary focus is backend development, automation, and optimizing technical wo
    A tool for CNC machining automation.
    👉 <https://github.com/DmitryIsarenko/py_post>
 
--->
+- ->
 1. **Web service for breath-holding practice**  
    A platform providing free exercises for divers.  
    👉 <https://github.com/DmitryIsarenko/diving-timer-web>
@@ -26,6 +26,7 @@ My primary focus is backend development, automation, and optimizing technical wo
 2. **Semi-automated XML generator**  
    Helps to represent CNC tooling for machining centers in Creo Parametric CAM system.  
    👉 <https://github.com/DmitryIsarenko/tool_base_for_PTC_Creo>
+-->
 
 ---
 
